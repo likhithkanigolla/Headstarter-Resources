@@ -1,4 +1,4 @@
-# Week 3 - AI Flashcards
+# Week 3 - Customer Support BOT
 Tasks
 
 This is a team project, so if you do not have a team yet, try to find one ASAP
